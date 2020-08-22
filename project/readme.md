@@ -1,6 +1,6 @@
 # Introduction
 
-Let build a application with these advanced we just learnt
+Let build a application with these advanced techniques we just learnt
 
 ## About the application
 This application will be a book store application which will let us buy new, allow us to request for new books and chat with the customer support in case of any queries and issues.
